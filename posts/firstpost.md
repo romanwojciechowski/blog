@@ -1,6 +1,7 @@
 ---
 title: Nowy minimalistyczny blog
-description: This is a post on My Blog about agile frameworks.
+author: Roman Wojciechowski
+description: To jest pierwszy post na blogu.
 date: 2020-06-20
 layout: layouts/post.njk
 ---
